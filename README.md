@@ -7,8 +7,8 @@ This study sought to replicate some of the findings from Laursen et al. (2021).
 
 Laursen, M.F., Sakanaka, M., von Burg, N. et al. Bifidobacterium species associated with breastfeeding produce aromatic lactic acids in the infant gut. Nat Microbiol 6, 1367–1382 (2021). https://doi.org/10.1038/s41564-021-00970-4
 
-### Figure 1###
+### Figure 1
 Replicates figure 1c from the original paper. Aimed to see if breastfeeding status had any impacts on the fecal amino acid metabolite concentrations in infants using PCA. 
 
-### Figure 2###
+### Figure 2
 Replicates figure 1d from the original paper. Sought to identify which metabolites have the highest correlation to Bifidobacterium concentrations using a Spearman’s Rank heatmap.
